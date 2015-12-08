@@ -2,134 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a37d8f-1958-42b8-9dfc-34e7c7c5177d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/american-express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/avatar04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/boxed-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/boxed-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/cirrus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/default-50x50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/flat@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/mestro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/paypal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user1-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user2-160x160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user3-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user4-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user5-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user6-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user7-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/user8-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/images/credit/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/AdminLTE.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/AdminLTE.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/AgOffice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Birthcertificateapplication.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Brand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Employee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/InsuranceRecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/LicenseRecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/SeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Station.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Entity/Vehicle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/_all-skins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/_all-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/about.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/adminbase.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/js/app.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/js/pages/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/js/pages/dashboard2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/js/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/other/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/home.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/other/css/ionicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/other/js/jQuery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-black-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-black-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-black.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-blue-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-blue-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-blue.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-green-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-green-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-purple-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-purple-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-purple.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-red-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-red-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-red.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-yellow-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-yellow-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/skins/skin-yellow.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/other/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/theme/css/flat/yellow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Application/ClientBundle/Resources/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UWUProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClientController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5730337">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -180,16 +54,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="npm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/public/bootstrap/js/npm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/about.html.twig">
           <provider selected="true" editor-type-id="text-editor">
@@ -200,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0609319">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -213,8 +77,18 @@
       <file leaf-file-name="home.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/home.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-64.73077">
-              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+            <state vertical-scroll-proportion="40.0">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.296296">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -233,7 +107,7 @@
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769">
+            <state vertical-scroll-proportion="-5.769231">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding />
             </state>
@@ -243,8 +117,8 @@
       <file leaf-file-name="adminbase.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/adminbase.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -273,6 +147,8 @@
         <option value="$PROJECT_DIR$/app/Resources/views/adminbase.html.twig" />
         <option value="$PROJECT_DIR$/src/Application/ClientBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig" />
       </list>
     </option>
   </component>
@@ -670,7 +546,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33006537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33006537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -798,54 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/adminbase.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/about.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/home.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-64.73077">
-          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2592592">
@@ -864,8 +692,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Controller/ClientController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5730337">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.769231">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/adminbase.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/about.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.296296">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/home.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.0">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClientBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0609319">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
