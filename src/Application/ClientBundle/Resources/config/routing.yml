@@ -1,3 +1,4 @@
 application_client_homepage:
     path:     /
-    defaults: { _controller: ApplicationClientBundle:Default:index }
+    defaults: { _controller: ApplicationClientBundle:Client:clientHome }
+
