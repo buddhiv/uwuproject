@@ -10,4 +10,6 @@ class DefaultController extends Controller
     {
         return $this->render('ApplicationClientBundle:Default:index.html.twig');
     }
+
+
 }

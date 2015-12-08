@@ -17,4 +17,8 @@ class ClientController extends Controller
     {
         return $this->render('ApplicationClientBundle:Default:home.html.twig');
     }
+
+    public function clientApplicationViewAction(){
+        return $this->render('ApplicationClientBundle:Default:main.html.twig');
+    }
 }

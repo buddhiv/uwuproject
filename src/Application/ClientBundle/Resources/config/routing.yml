@@ -2,3 +2,6 @@ application_client_homepage:
     path:     /
     defaults: { _controller: ApplicationClientBundle:Client:clientHome }
 
+client_application_view:
+    path:   /view_application
+    defaults:   { _controller: ApplicationClientBundle:Client:clientApplicationView }
